@@ -83,10 +83,10 @@ Some important insights discovered from the dashboard include:
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot](https://github.com/kerry20222/Netflix-analysis/blob/main/Images/Netflix%20Dashboard.jpeg)
+![Dashboard Screenshot]()
 
 ---
 
 ## 👤 Author
-Precious Mulanga
+Nambwa Beryl
 
