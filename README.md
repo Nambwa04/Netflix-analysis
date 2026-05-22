@@ -83,7 +83,7 @@ Some important insights discovered from the dashboard include:
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Screenshot]()
+![Dashboard Screenshot](https://github.com/Nambwa04/Netflix-analysis/blob/main/Images/Netflix%20Dashboard.jpeg)
 
 ---
 
